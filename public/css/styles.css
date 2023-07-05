@@ -1,0 +1,32 @@
+body{
+    color: rgb(88, 84, 88);
+    font-family: Arial;
+    margin: 0 auto;
+    max-width: 650px;
+    padding: 0 16px;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+h{
+    color: #333333
+
+}
+p{
+    color: red
+}
+.main-content{
+    flex-grow:1;
+}
+
+footer{
+    color: #888;
+    border-top: 1px solid #eeeeee;
+    margin-top: 16px;
+    padding: 16px 0;
+}
+header{
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
