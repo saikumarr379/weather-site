@@ -1,6 +1,6 @@
 //const { response } = require("express")
 
-console.log("javascript file is uploaded.")
+
 
     // fetch('api.weatherstack.com/current?access_key=feb89ef3bc6d3bfb44e623e5b4575172&query=RAYACHOTI').then((response) =>{
     //     response.json().then((data) =>{
